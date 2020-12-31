@@ -11,4 +11,4 @@ All code is available here:
 - [Robot Tank with Wired Joystick (old)](/RobotWithWiredJoystick)
 - [Robot Tank using Remote XY](/RobotTankWiFifromPhone)
 
-![The Tank](\Images\Tank1.png)
+![The Tank](/Images/Tank1.png)
