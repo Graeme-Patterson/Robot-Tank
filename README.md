@@ -8,7 +8,7 @@ The 3D files are located in the [Proto Tank](/ProtoTank) folder with all credit 
 I have built one and have controlled it using an Arduido UNO with a wired Joystick controller as well as using an ESP8266/Node MCU using Remote XY and used a spare mobile phone as the controller. 
 All code is available here:
 - [Robot Tank Connected Joystick (old)](/RobotTankConnectedJoystick)
-- [Robot Tank with Wired Joystick (new)](/RobotWithWiredJoystick/WiredJoystickBetterLogic)
+- [Robot Tank with Wired Joystick (new)](/TankWithWiredJoystick/WiredJoystickBetterLogic)
 - [Robot Tank using Remote XY](/RobotTankWiFifromPhone/RobotTankWiFifromPhone)
 
 ![The Tank](/Images/Tank1.png)
