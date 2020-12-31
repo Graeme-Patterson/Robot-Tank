@@ -6,6 +6,6 @@ Please refer to the code to identify which pins are used for joystick input and 
 
 At some point I'll create some wiring diagrams and post here. Until then here are some pictures:
 
-![Arduino Wired Controller 1](/images/IMG_20201231_150516238.jpg)
+![Arduino Wired Controller 1](/Images/IMG_20201231_150516238.jpg)
 
-![Arduino Wired Controller 1](/images/IMG_20201231_150527620.jpg)
+![Arduino Wired Controller 1](/Images/IMG_20201231_150527620.jpg)
